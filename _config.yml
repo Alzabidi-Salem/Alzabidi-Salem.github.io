@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   name             : "Alzabidi Salem"
   pronouns         : # example: "he/him"  
   bio              : "PhD student in Computer Science | Computer Vision"
