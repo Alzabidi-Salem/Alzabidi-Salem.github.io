@@ -18,6 +18,8 @@ I am a PhD student in the Department of Computer Science at Wuhan University of 
 ## Education
 
 - PhD in Computer Science, Wuhan University of Technology (in progress)
+- Master of Science in Computer Engineering and Networks (University of Gezira, 2017 )
+- Bachelor of Science in Computer Engineering (University of Gezira, 2014) 
 
 ## Contact
 
